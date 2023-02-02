@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(13, 197, 253);
+}
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+#board{
+    justify-content: center;
+    align-items: center ;
+    margin-top: 100px;
+    background-color: rgb(143, 221, 221);
+}
+td {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid black;
+}
+
+#result {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    color: green;
+  }
